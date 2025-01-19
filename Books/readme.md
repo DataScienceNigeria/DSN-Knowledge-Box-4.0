@@ -21,6 +21,16 @@
 | [Hands-On Generative AI with Transformers and Diffusion Models](https://www.oreilly.com/library/view/hands-on-generative-ai/9781098149239/) | Omar Sanseviero et al.                   | [Link](https://www.oreilly.com/library/view/hands-on-generative-ai/9781098149239/)                                                              |
 | [Generative AI with Python and TensorFlow 2](https://www.amazon.com/Generative-AI-Python-TensorFlow-Transformer/dp/1800200889) |  Joseph Babcock, Raghav Bali              | [Link](https://www.amazon.com/Generative-AI-Python-TensorFlow-Transformer/dp/1800200889)                                                        |
 
+## Deep Learning 
+
+| **Title of Content**                                                    | **Author/Credits**                          | **Link**                                                                                                   |
+|--------------------------------------------------------------------------|---------------------------------------------|-----------------------------------------------------------------------------------------------------------|
+| The Little Book of Deep Learning                                        | François Fleuret                            | [Link](https://fleuret.org/public/lbdl.pdf)                                                              |
+| Practical Deep Learning for Cloud, Mobile, and Edge                    | Anirudh Koul, Siddha Ganju, Meher Kasam     | [Link](https://www.oreilly.com/library/view/practical-deep-learning/9781492034858/)                      |
+| Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow      | Aurélien Géron                              | [Link](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/)                    |
+| Deep Learning Book                                                      | Ian Goodfellow, Yoshua Bengio, Aaron Courville | [Link](https://www.deeplearningbook.org/)                                                               |
+| Deep Learning with Python                                               | François Chollet                            | [Link](https://sourestdeeds.github.io/pdf/Deep%20Learning%20with%20Python.pdf)                           |
+
 
 # Data Science
 
