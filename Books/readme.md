@@ -21,7 +21,7 @@
 | [Hands-On Generative AI with Transformers and Diffusion Models](https://www.oreilly.com/library/view/hands-on-generative-ai/9781098149239/) | Omar Sanseviero et al.                   | [Link](https://www.oreilly.com/library/view/hands-on-generative-ai/9781098149239/)                                                              |
 | [Generative AI with Python and TensorFlow 2](https://www.amazon.com/Generative-AI-Python-TensorFlow-Transformer/dp/1800200889) |  Joseph Babcock, Raghav Bali              | [Link](https://www.amazon.com/Generative-AI-Python-TensorFlow-Transformer/dp/1800200889)                                                        |
 
-## Deep Learning 
+# Deep Learning 
 
 | **Title of Content**                                                    | **Author/Credits**                          | **Link**                                                                                                   |
 |--------------------------------------------------------------------------|---------------------------------------------|-----------------------------------------------------------------------------------------------------------|
