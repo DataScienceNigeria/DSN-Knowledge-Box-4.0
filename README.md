@@ -79,7 +79,7 @@ Each roadmap is designed to provide clarity and actionable steps for achieving y
 
 ## 🤝 Contribution Guidelines  
 
-We welcome contributions from the community! If you have a valuable resource or a better roadmap suggestion, please feel free to contribute. See the `CONTRIBUTING.md` file for more details.  
+We welcome contributions from the community! If you have a valuable resource or a better roadmap suggestion, please feel free to contribute. See the `Contributing.md` file for more details.  
 
 ---
 
