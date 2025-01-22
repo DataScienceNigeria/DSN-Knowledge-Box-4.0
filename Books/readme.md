@@ -1,3 +1,25 @@
+
+# [Computer Vision](https://drive.google.com/drive/folders/1nnuHfX2aIUvBQZYbPHEx1-icWugQXRiM?usp=drive_link)
+# [Thiny AI and ML](https://drive.google.com/drive/folders/1UXJfF94ozbFLUz-5Sq2Lo4eDQg_s2OBh?usp=sharing)
+# [Statistics](https://drive.google.com/drive/folders/1o0XDZdaFnqmQDOIyCIzdN6G_oOyx0Nnu?usp=drive_link)
+# [Speech Recognation](https://drive.google.com/drive/folders/1blJh9OyCZ9CDSXSseTW4IAo-CZbnOisQ?usp=drive_link)
+# [Spark](https://drive.google.com/drive/folders/1lL2riihSmBjFQAiITOyQjOZmCmUvogzK?usp=drive_link)
+# [Reinforcemnt Learning](https://drive.google.com/drive/folders/1_tTCDwUq1Dt_leiUueHPeI0nsfBsmCG9?usp=drive_link)
+# [Research scientists and Developers](https://drive.google.com/drive/folders/1KuhFp-JAXZwrNzrzX7S2v7sB9XEcEXkm?usp=drive_link)
+# [R](https://drive.google.com/drive/folders/1tzsgeWlXBvPdxskFGfC5i4qvngiJmwEJ?usp=drive_link)
+# [Python](https://drive.google.com/drive/folders/1StmBXKPNej8jlkuUuS8iMT7c1Gibh57E?usp=drive_link)
+# [Parttern Recognition](https://drive.google.com/drive/folders/1zkEammhNHC8XMuzb3JEjUtl1uNM5mHVp?usp=drive_link)
+# [Natural Language Processing](https://drive.google.com/drive/folders/1ZExdLDtPnb-WzUHDTUl2af1nTUCgVuJx?usp=drive_link)
+# [Machine Learning](https://drive.google.com/drive/folders/1_zHnpUwH0jCqh1EQQyyYh-vp4iMlP-7R?usp=drive_link)
+# [Matlab](https://drive.google.com/drive/folders/1B-BbxMXZ4x7qfyptFmEKXVXNqDTkIOvw?usp=drive_link)
+# [Deep Learning](https://drive.google.com/drive/folders/1PlMEKZGIvfUbXD-yZUbmbsJ_0P32vd2e?usp=drive_link)
+# [Data Science](https://drive.google.com/drive/folders/13WJH7k_82I9VNp_1msELmfn1b5optWLj?usp=drive_link)
+# [Data Munging](https://drive.google.com/drive/folders/18v1UxYKoJOTB07F1HXx6Fqpd50gH9DDO?usp=drive_link)
+# [Data Engineering](https://drive.google.com/drive/folders/1gkbkZ6ESQlkk6xTIlmpGMG80Mhusvh5X?usp=drive_link)
+# [Chatbot](https://drive.google.com/drive/folders/1vFGDLOnj5bvsjsrVBWjUUg91pNP21jv-?usp=drive_link)
+# [Analytics](https://drive.google.com/drive/folders/1rOKlECneGmmZ7WgtN41wb4uBtiZjv0w-?usp=drive_link)
+# [Others](https://drive.google.com/drive/folders/1Bvb2P-r7DTZzb6WUZicbxeBPVJlAg1PZ?usp=drive_link)
+
 # Computer Vision
 
 | Title of Content | Author/Credits | Link |
