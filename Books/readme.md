@@ -8,7 +8,7 @@
 # [Research scientists and Developers](https://drive.google.com/drive/folders/1KuhFp-JAXZwrNzrzX7S2v7sB9XEcEXkm?usp=drive_link)
 # [R](https://drive.google.com/drive/folders/1tzsgeWlXBvPdxskFGfC5i4qvngiJmwEJ?usp=drive_link)
 # [Python](https://drive.google.com/drive/folders/1StmBXKPNej8jlkuUuS8iMT7c1Gibh57E?usp=drive_link)
-# [Parttern Recognition](https://drive.google.com/drive/folders/1zkEammhNHC8XMuzb3JEjUtl1uNM5mHVp?usp=drive_link)
+# [Pattern Recognition](https://drive.google.com/drive/folders/1zkEammhNHC8XMuzb3JEjUtl1uNM5mHVp?usp=drive_link)
 # [Natural Language Processing](https://drive.google.com/drive/folders/1ZExdLDtPnb-WzUHDTUl2af1nTUCgVuJx?usp=drive_link)
 # [Machine Learning](https://drive.google.com/drive/folders/1_zHnpUwH0jCqh1EQQyyYh-vp4iMlP-7R?usp=drive_link)
 # [Matlab](https://drive.google.com/drive/folders/1B-BbxMXZ4x7qfyptFmEKXVXNqDTkIOvw?usp=drive_link)
