@@ -4,9 +4,9 @@
 </div>
 
 
-# DSN Knowledge Box 4.0: Your Ultimate Data Science and Analytics Resource Hub  
+# DSN Knowledge Box 4.0: Your Ultimate Data Science. Analytics and Artificial Intelligence Resource Hub  
 
-Welcome to **DSN Knowledge Box 4.0**, a curated repository of resources designed to guide and support your journey in the fields of **Data Science**. Whether you are a beginner taking your first steps or a seasoned professional looking to deepen your expertise, Knowledge Box has something for everyone.
+Welcome to **DSN Knowledge Box 4.0**, a curated repository of resources designed to guide and support your journey in the fields of **Data Science, Data Analytics and Artificial Intelligence**. Whether you are a beginner taking your first steps or a seasoned professional looking to deepen your expertise, Knowledge Box has something for everyone.
 
 ---
 
