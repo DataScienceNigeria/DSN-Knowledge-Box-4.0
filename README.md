@@ -73,13 +73,7 @@ Each roadmap is designed to provide clarity and actionable steps for achieving y
 1. **Navigate Categories**: Explore the folders and files for specific resources.  
 2. **Follow Roadmaps**: Start with the roadmap that aligns with your career goals.  
 3. **Contribute**: Found a great resource? Open a pull request to help the community grow.  
-4. **Stay Connected**: Watch the repository for updates and new content.  
-
----
-
-## 🤝 Contribution Guidelines  
-
-We welcome contributions from the community! If you have a valuable resource or a better roadmap suggestion, please feel free to contribute. See the `Contributing.md` file for more details.  
+4. **Stay Connected**: Watch the repository for updates and new content.   
 
 ---
 
