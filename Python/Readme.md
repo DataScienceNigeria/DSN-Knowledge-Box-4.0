@@ -15,7 +15,7 @@
 
 | **Title**                                     | **Author/Credits**         | **Link**                                                                                                      |
 |-----------------------------------------------|----------------------------|--------------------------------------------------------------------------------------------------------------|
-| Python Full Course for Free 🐍 (2024)          | Bro Code                   | [Link](https://youtu.be/kN_S-uQ0wOw)                                                                        |
+| Python Full Course for Free 🐍 (2024)          | Bro Code                   | [Link](https://youtu.be/ix9cRaBkVe0?si=JsRM6rAZfUPay2v0)                                                                        |
 | Python Full Course for Beginners-Complete All-in-One Tutorial | Dave Gray                  | [Link](https://youtu.be/H2EJuAcrZYU?si=SD-OFqCJXfbCL6KX)                                                    |
 | Python for Everyone: From Zero to Hero - 6 Hours Complete Course | HuXn WebDev               | [Link](https://youtu.be/JZDQKj9BOoc?si=r5dP-5dKcMTEycXd)                                                    |
 
